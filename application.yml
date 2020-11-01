@@ -2,5 +2,5 @@ my:
   list:  one,two,three
   map:  "{name:'chitra', age: '22'}"
   config:
-     name:  Jalal from Git 
+     name:  Jalal from Git updated
      value: Mujawar
